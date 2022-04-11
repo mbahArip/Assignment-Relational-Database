@@ -1,0 +1,12 @@
+{
+  keterangan {
+    id
+    id_anggota
+    anggota {
+      nama
+    }
+    pelajaran
+    nilai
+    status
+  }
+}
